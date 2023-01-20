@@ -1,3 +1,4 @@
+import React from 'react';
 import '../styles/style.scss'
 import NextNProgress from "nextjs-progressbar";
 
